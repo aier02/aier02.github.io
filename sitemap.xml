@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/08/06/test/</loc>
+    
+    <lastmod>2018-08-06T11:28:52.733Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/links/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
@@ -30,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/books/index.html</loc>
+    <loc>http://aier02.com/categories/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/categories/index.html</loc>
+    <loc>http://aier02.com/books/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
