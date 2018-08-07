@@ -4,19 +4,23 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/08/06/test/</loc>
-    <lastmod>2018-08-06T12:03:50.313Z</lastmod>
+    <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
+    <lastmod>2018-08-07T13:24:24.736Z</lastmod>
     <data>
         <display>
-        <title>仅供测试</title>
-        <pubTime>2018-08-06T11:28:52.733Z</pubTime>
+        <title>Mac Hexo+Github page 搭建个人blog</title>
+        <pubTime>2018-08-07T11:24:35.583Z</pubTime>
         
-        <tag>macdown</tag>
+        <tag>Hexo</tag>
+         
+        <tag>Github page</tag>
+         
+        <tag>namesilo</tag>
          
          
            
              
-              <breadCrumb title="test" url="http://aier02.com/categories/test/"/>
+              <breadCrumb title="博客" url="http://aier02.com/categories/%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
@@ -29,19 +33,4 @@
     
     
     
-    
-  <url>
-    <loc>http://aier02.com/2018/08/04/hello-world/</loc>
-    <lastmod>2018-08-04T15:26:35.998Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-08-04T15:26:35.998Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
