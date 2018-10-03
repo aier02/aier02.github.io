@@ -2,9 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
+    
+    <lastmod>2018-10-03T07:55:27.365Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
+    
+    <lastmod>2018-10-03T07:51:58.370Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    
+    <lastmod>2018-10-03T07:48:47.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/05/airbus_ship_detection/</loc>
+    
+    <lastmod>2018-10-03T07:47:24.341Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    
+    <lastmod>2018-10-03T07:43:22.023Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/28/python_rubbish_collection/</loc>
+    
+    <lastmod>2018-10-03T07:40:35.636Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    
+    <lastmod>2018-10-03T07:36:45.859Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/18/faster_RCNN/</loc>
+    
+    <lastmod>2018-09-21T02:30:59.748Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
+    
+    <lastmod>2018-09-18T10:55:03.519Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
     
-    <lastmod>2018-08-27T17:11:30.430Z</lastmod>
+    <lastmod>2018-08-27T17:21:37.789Z</lastmod>
     
   </url>
   
@@ -12,6 +75,13 @@
     <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
     
     <lastmod>2018-08-07T13:24:24.736Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/tags/index.html</loc>
+    
+    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
@@ -30,21 +100,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
-    
-    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/books/index.html</loc>
+    <loc>http://aier02.com/categories/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/categories/index.html</loc>
+    <loc>http://aier02.com/books/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
