@@ -4,20 +4,14 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
-    <lastmod>2018-10-03T07:55:27.365Z</lastmod>
+    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    <lastmod>2018-10-03T08:08:35.464Z</lastmod>
     <data>
         <display>
-        <title>first time in Kaggle-preparation</title>
-        <pubTime>2018-09-06T09:08:00.932Z</pubTime>
+        <title>experience from a Kaggler</title>
+        <pubTime>2018-09-05T02:19:10.278Z</pubTime>
         
-        <tag>segmentation</tag>
-         
-        <tag>chest X-ray</tag>
-         
-        <tag>ChexNet</tag>
-         
-        <tag>EDA</tag>
+        <tag>experience</tag>
          
          
            
@@ -31,7 +25,7 @@
     
   <url>
     <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
-    <lastmod>2018-10-03T07:51:58.370Z</lastmod>
+    <lastmod>2018-10-03T08:08:29.011Z</lastmod>
     <data>
         <display>
         <title>pytorch_cookbook_U2&U3</title>
@@ -52,48 +46,8 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
-    <lastmod>2018-10-03T07:48:47.644Z</lastmod>
-    <data>
-        <display>
-        <title>experience from a Kaggler</title>
-        <pubTime>2018-09-05T02:19:10.278Z</pubTime>
-        
-        <tag>experience</tag>
-         
-         
-           
-             
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/09/05/airbus_ship_detection/</loc>
-    <lastmod>2018-10-03T07:47:24.341Z</lastmod>
-    <data>
-        <display>
-        <title>a failed experience in Kaggle</title>
-        <pubTime>2018-09-05T02:18:30.433Z</pubTime>
-        
-        <tag>segmentation</tag>
-         
-         
-           
-             
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    <lastmod>2018-10-03T07:43:22.023Z</lastmod>
+    <lastmod>2018-10-03T08:08:24.942Z</lastmod>
     <data>
         <display>
         <title>first time in Kaggle</title>
@@ -118,8 +72,34 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
+    <lastmod>2018-10-03T08:08:20.009Z</lastmod>
+    <data>
+        <display>
+        <title>first time in Kaggle-preparation</title>
+        <pubTime>2018-09-06T09:08:00.932Z</pubTime>
+        
+        <tag>segmentation</tag>
+         
+        <tag>chest X-ray</tag>
+         
+        <tag>ChexNet</tag>
+         
+        <tag>EDA</tag>
+         
+         
+           
+             
+              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/09/28/python_rubbish_collection/</loc>
-    <lastmod>2018-10-03T07:40:35.636Z</lastmod>
+    <lastmod>2018-10-03T08:08:16.164Z</lastmod>
     <data>
         <display>
         <title>python rubbish collection</title>
@@ -138,8 +118,72 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/09/18/faster_RCNN/</loc>
+    <lastmod>2018-10-03T08:08:10.513Z</lastmod>
+    <data>
+        <display>
+        <title>faster RCNN</title>
+        <pubTime>2018-09-18T10:55:07.479Z</pubTime>
+        
+        <tag>CNN</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/09/05/airbus_ship_detection/</loc>
+    <lastmod>2018-10-03T08:08:00.121Z</lastmod>
+    <data>
+        <display>
+        <title>a failed experience in Kaggle</title>
+        <pubTime>2018-09-05T02:18:30.433Z</pubTime>
+        
+        <tag>segmentation</tag>
+         
+         
+           
+             
+              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
+    <lastmod>2018-10-03T08:07:54.646Z</lastmod>
+    <data>
+        <display>
+        <title>统计学习方法概论</title>
+        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
+        
+        <tag>统计学习概论</tag>
+         
+        <tag>第一章</tag>
+         
+        <tag>基础知识</tag>
+         
+         
+           
+             
+              <breadCrumb title="统计学习" url="http://aier02.com/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-10-03T07:36:45.859Z</lastmod>
+    <lastmod>2018-10-03T08:07:52.057Z</lastmod>
     <data>
         <display>
         <title>Linear classification</title>
@@ -162,53 +206,19 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/18/faster_RCNN/</loc>
-    <lastmod>2018-09-21T02:30:59.748Z</lastmod>
-    <data>
-        <display>
-        <title></title>
-        <pubTime>2018-09-18T10:55:07.479Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
-    <lastmod>2018-09-18T10:55:03.519Z</lastmod>
+    <lastmod>2018-10-03T08:07:49.017Z</lastmod>
     <data>
         <display>
-        <title></title>
+        <title>analysis kernel demo</title>
         <pubTime>2018-09-18T10:55:03.519Z</pubTime>
         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
-    <lastmod>2018-08-27T17:21:37.789Z</lastmod>
-    <data>
-        <display>
-        <title>统计学习方法概论</title>
-        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
-        
-        <tag>统计学习概论</tag>
-         
-        <tag>第一章</tag>
-         
-        <tag>基础知识</tag>
+        <tag>demo</tag>
          
          
            
              
-              <breadCrumb title="统计学习" url="http://aier02.com/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
           
         </display>
     </data>
