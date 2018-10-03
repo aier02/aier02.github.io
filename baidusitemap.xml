@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
+    <lastmod>2018-10-03T11:26:58.013Z</lastmod>
+    <data>
+        <display>
+        <title>pytorch cookbook U2&U3</title>
+        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
+        
+        <tag>basic knowledge</tag>
+         
+        <tag>pytorch_cookbook</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
     <lastmod>2018-10-03T08:31:04.196Z</lastmod>
     <data>
@@ -115,28 +137,6 @@
            
              
               <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
-    <lastmod>2018-10-03T08:10:50.375Z</lastmod>
-    <data>
-        <display>
-        <title>pytorch cookbook U2&U3</title>
-        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
-        
-        <tag>basic knowledge</tag>
-         
-        <tag>pytorch_cookbook</tag>
-         
-         
-           
-             
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
           
         </display>
     </data>
