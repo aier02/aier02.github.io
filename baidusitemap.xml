@@ -4,6 +4,72 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
+    <lastmod>2018-10-03T08:31:04.196Z</lastmod>
+    <data>
+        <display>
+        <title>Introduction to statistical learning method U1</title>
+        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
+        
+        <tag>basic knowledge</tag>
+         
+        <tag>introduction</tag>
+         
+         
+           
+             
+              <breadCrumb title="statistical learning method" url="http://aier02.com/categories/statistical-learning-method/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
+    <lastmod>2018-10-03T08:30:19.069Z</lastmod>
+    <data>
+        <display>
+        <title>Build personal blog</title>
+        <pubTime>2018-08-07T11:24:35.583Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Github page</tag>
+         
+        <tag>namesilo</tag>
+         
+         
+           
+             
+              <breadCrumb title="blog" url="http://aier02.com/categories/blog/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
+    <lastmod>2018-10-03T08:20:26.193Z</lastmod>
+    <data>
+        <display>
+        <title>analysis kernel demo</title>
+        <pubTime>2018-09-18T10:55:03.519Z</pubTime>
+        
+        <tag>demo</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
     <lastmod>2018-10-03T08:15:40.619Z</lastmod>
     <data>
@@ -158,30 +224,6 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
-    <lastmod>2018-10-03T08:07:54.646Z</lastmod>
-    <data>
-        <display>
-        <title>统计学习方法概论</title>
-        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
-        
-        <tag>统计学习概论</tag>
-         
-        <tag>第一章</tag>
-         
-        <tag>基础知识</tag>
-         
-         
-           
-             
-              <breadCrumb title="统计学习" url="http://aier02.com/categories/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
     <lastmod>2018-10-03T08:07:52.057Z</lastmod>
     <data>
@@ -199,50 +241,6 @@
            
              
               <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
-    <lastmod>2018-10-03T08:07:49.017Z</lastmod>
-    <data>
-        <display>
-        <title>analysis kernel demo</title>
-        <pubTime>2018-09-18T10:55:03.519Z</pubTime>
-        
-        <tag>demo</tag>
-         
-         
-           
-             
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
-    <lastmod>2018-08-07T13:24:24.736Z</lastmod>
-    <data>
-        <display>
-        <title>Mac Hexo+Github page 搭建个人blog</title>
-        <pubTime>2018-08-07T11:24:35.583Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Github page</tag>
-         
-        <tag>namesilo</tag>
-         
-         
-           
-             
-              <breadCrumb title="博客" url="http://aier02.com/categories/%E5%8D%9A%E5%AE%A2/"/>
           
         </display>
     </data>
