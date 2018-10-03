@@ -4,14 +4,20 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
-    <lastmod>2018-10-03T08:08:35.464Z</lastmod>
+    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
+    <lastmod>2018-10-03T08:12:04.705Z</lastmod>
     <data>
         <display>
-        <title>experience from a Kaggler</title>
-        <pubTime>2018-09-05T02:19:10.278Z</pubTime>
+        <title>first time in Kaggle-preparation</title>
+        <pubTime>2018-09-06T09:08:00.932Z</pubTime>
         
-        <tag>experience</tag>
+        <tag>segmentation</tag>
+         
+        <tag>chest X-ray</tag>
+         
+        <tag>ChexNet</tag>
+         
+        <tag>EDA</tag>
          
          
            
@@ -24,33 +30,11 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
-    <lastmod>2018-10-03T08:08:29.011Z</lastmod>
-    <data>
-        <display>
-        <title>pytorch_cookbook_U2&U3</title>
-        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
-        
-        <tag>basic knowledge</tag>
-         
-        <tag>pytorch_cookbook</tag>
-         
-         
-           
-             
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    <lastmod>2018-10-03T08:08:24.942Z</lastmod>
+    <lastmod>2018-10-03T08:11:31.492Z</lastmod>
     <data>
         <display>
-        <title>first time in Kaggle</title>
+        <title>first time in Kaggle-summary</title>
         <pubTime>2018-10-01T16:08:39.573Z</pubTime>
         
         <tag>segmentation</tag>
@@ -72,20 +56,36 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
-    <lastmod>2018-10-03T08:08:20.009Z</lastmod>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
+    <lastmod>2018-10-03T08:10:50.375Z</lastmod>
     <data>
         <display>
-        <title>first time in Kaggle-preparation</title>
-        <pubTime>2018-09-06T09:08:00.932Z</pubTime>
+        <title>pytorch cookbook U2&U3</title>
+        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
         
-        <tag>segmentation</tag>
+        <tag>basic knowledge</tag>
          
-        <tag>chest X-ray</tag>
+        <tag>pytorch_cookbook</tag>
          
-        <tag>ChexNet</tag>
          
-        <tag>EDA</tag>
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    <lastmod>2018-10-03T08:08:35.464Z</lastmod>
+    <data>
+        <display>
+        <title>experience from a Kaggler</title>
+        <pubTime>2018-09-05T02:19:10.278Z</pubTime>
+        
+        <tag>experience</tag>
          
          
            

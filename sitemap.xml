@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
     
-    <lastmod>2018-10-03T08:08:35.464Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
-    
-    <lastmod>2018-10-03T08:08:29.011Z</lastmod>
+    <lastmod>2018-10-03T08:12:04.705Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
     
-    <lastmod>2018-10-03T08:08:24.942Z</lastmod>
+    <lastmod>2018-10-03T08:11:31.492Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook/</loc>
     
-    <lastmod>2018-10-03T08:08:20.009Z</lastmod>
+    <lastmod>2018-10-03T08:10:50.375Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    
+    <lastmod>2018-10-03T08:08:35.464Z</lastmod>
     
   </url>
   
