@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/10/05/optimization/</loc>
+    
+    <lastmod>2018-10-05T13:00:58.683Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    
+    <lastmod>2018-10-04T14:10:53.908Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
     
-    <lastmod>2018-10-03T11:26:58.013Z</lastmod>
+    <lastmod>2018-10-03T11:35:09.602Z</lastmod>
     
   </url>
   
@@ -33,13 +47,6 @@
     <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
     
     <lastmod>2018-10-03T08:15:40.619Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    
-    <lastmod>2018-10-03T08:11:31.492Z</lastmod>
     
   </url>
   
@@ -79,7 +86,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/links/index.html</loc>
+    <loc>http://aier02.com/tags/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
@@ -93,16 +100,9 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
+    <loc>http://aier02.com/links/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/about/index.html</loc>
-    
-    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
   </url>
   
@@ -115,6 +115,13 @@
   
   <url>
     <loc>http://aier02.com/books/index.html</loc>
+    
+    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/about/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     

@@ -4,8 +4,56 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/10/05/optimization/</loc>
+    <lastmod>2018-10-05T13:00:58.683Z</lastmod>
+    <data>
+        <display>
+        <title>optimization</title>
+        <pubTime>2018-10-05T12:44:14.537Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+        <tag>image classification</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    <lastmod>2018-10-04T14:10:53.908Z</lastmod>
+    <data>
+        <display>
+        <title>first time in Kaggle-summary</title>
+        <pubTime>2018-10-01T16:08:39.573Z</pubTime>
+        
+        <tag>segmentation</tag>
+         
+        <tag>keras</tag>
+         
+        <tag>ResNet</tag>
+         
+        <tag>jikecloud</tag>
+         
+         
+           
+             
+              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
-    <lastmod>2018-10-03T11:26:58.013Z</lastmod>
+    <lastmod>2018-10-03T11:35:09.602Z</lastmod>
     <data>
         <display>
         <title>pytorch cookbook U2&U3</title>
@@ -106,32 +154,6 @@
         <tag>ChexNet</tag>
          
         <tag>EDA</tag>
-         
-         
-           
-             
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    <lastmod>2018-10-03T08:11:31.492Z</lastmod>
-    <data>
-        <display>
-        <title>first time in Kaggle-summary</title>
-        <pubTime>2018-10-01T16:08:39.573Z</pubTime>
-        
-        <tag>segmentation</tag>
-         
-        <tag>keras</tag>
-         
-        <tag>ResNet</tag>
-         
-        <tag>jikecloud</tag>
          
          
            
