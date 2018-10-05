@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://aier02.com/2018/10/05/optimization/</loc>
-    <lastmod>2018-10-05T15:27:19.489Z</lastmod>
+    <lastmod>2018-10-05T15:35:08.991Z</lastmod>
     <data>
         <display>
         <title>optimization</title>
@@ -26,8 +26,30 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
+    <lastmod>2018-10-05T15:35:07.342Z</lastmod>
+    <data>
+        <display>
+        <title>pytorch cookbook U2&U3</title>
+        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
+        
+        <tag>basic knowledge</tag>
+         
+        <tag>pytorch cookbook</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-10-05T15:26:43.363Z</lastmod>
+    <lastmod>2018-10-05T15:35:04.664Z</lastmod>
     <data>
         <display>
         <title>Linear classification</title>
@@ -69,28 +91,6 @@
            
              
               <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
-    <lastmod>2018-10-03T11:35:09.602Z</lastmod>
-    <data>
-        <display>
-        <title>pytorch cookbook U2&U3</title>
-        <pubTime>2018-10-02T08:27:32.398Z</pubTime>
-        
-        <tag>basic knowledge</tag>
-         
-        <tag>pytorch_cookbook</tag>
-         
-         
-           
-             
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
           
         </display>
     </data>
