@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    
+    <lastmod>2018-10-05T15:12:28.888Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/10/05/optimization/</loc>
     
-    <lastmod>2018-10-05T13:05:40.205Z</lastmod>
+    <lastmod>2018-10-05T15:12:25.892Z</lastmod>
     
   </url>
   
@@ -79,20 +86,6 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    
-    <lastmod>2018-10-03T08:07:52.057Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/links/index.html</loc>
-    
-    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://aier02.com/repository/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
@@ -107,9 +100,9 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/about/index.html</loc>
+    <loc>http://aier02.com/links/index.html</loc>
     
-    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
+    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
@@ -122,6 +115,13 @@
   
   <url>
     <loc>http://aier02.com/categories/index.html</loc>
+    
+    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/about/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     

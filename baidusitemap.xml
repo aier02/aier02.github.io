@@ -4,8 +4,32 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    <lastmod>2018-10-05T15:12:28.888Z</lastmod>
+    <data>
+        <display>
+        <title>Linear classification</title>
+        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+        <tag>linear classification</tag>
+         
+        <tag>SVM</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/10/05/optimization/</loc>
-    <lastmod>2018-10-05T13:05:40.205Z</lastmod>
+    <lastmod>2018-10-05T15:12:25.892Z</lastmod>
     <data>
         <display>
         <title>optimization</title>
@@ -239,30 +263,6 @@
            
              
               <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-10-03T08:07:52.057Z</lastmod>
-    <data>
-        <display>
-        <title>Linear classification</title>
-        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
-        
-        <tag>notebook</tag>
-         
-        <tag>linear classification</tag>
-         
-        <tag>SVM</tag>
-         
-         
-           
-             
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
