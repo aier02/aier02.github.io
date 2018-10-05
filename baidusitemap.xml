@@ -4,18 +4,16 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-10-05T15:12:28.888Z</lastmod>
+    <loc>http://aier02.com/2018/10/05/optimization/</loc>
+    <lastmod>2018-10-05T15:20:04.465Z</lastmod>
     <data>
         <display>
-        <title>Linear classification</title>
-        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
+        <title>optimization</title>
+        <pubTime>2018-10-05T12:44:14.537Z</pubTime>
         
         <tag>notebook</tag>
          
-        <tag>linear classification</tag>
-         
-        <tag>SVM</tag>
+        <tag>image classification</tag>
          
          
            
@@ -28,16 +26,18 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/05/optimization/</loc>
-    <lastmod>2018-10-05T15:12:25.892Z</lastmod>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    <lastmod>2018-10-05T15:20:02.582Z</lastmod>
     <data>
         <display>
-        <title>optimization</title>
-        <pubTime>2018-10-05T12:44:14.537Z</pubTime>
+        <title>Linear classification</title>
+        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
         
         <tag>notebook</tag>
          
-        <tag>image classification</tag>
+        <tag>linear classification</tag>
+         
+        <tag>SVM</tag>
          
          
            
