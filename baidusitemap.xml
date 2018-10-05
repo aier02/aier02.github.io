@@ -4,30 +4,8 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/05/optimization/</loc>
-    <lastmod>2018-10-05T15:46:13.106Z</lastmod>
-    <data>
-        <display>
-        <title>optimization</title>
-        <pubTime>2018-10-05T12:44:14.537Z</pubTime>
-        
-        <tag>notebook</tag>
-         
-        <tag>image classification</tag>
-         
-         
-           
-             
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-10-05T15:46:11.242Z</lastmod>
+    <lastmod>2018-10-05T15:59:58.457Z</lastmod>
     <data>
         <display>
         <title>Linear classification</title>
@@ -51,7 +29,7 @@
     
   <url>
     <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
-    <lastmod>2018-10-05T15:35:07.342Z</lastmod>
+    <lastmod>2018-10-05T15:50:37.362Z</lastmod>
     <data>
         <display>
         <title>pytorch cookbook U2&U3</title>
@@ -65,6 +43,28 @@
            
              
               <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/10/05/optimization/</loc>
+    <lastmod>2018-10-05T15:46:13.106Z</lastmod>
+    <data>
+        <display>
+        <title>optimization</title>
+        <pubTime>2018-10-05T12:44:14.537Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+        <tag>image classification</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
