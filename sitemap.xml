@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
+    
+    <lastmod>2018-10-10T02:23:16.013Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
     
     <lastmod>2018-10-05T16:09:16.104Z</lastmod>
@@ -40,13 +47,6 @@
     <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
     
     <lastmod>2018-10-03T08:30:19.069Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
-    
-    <lastmod>2018-10-03T08:20:26.193Z</lastmod>
     
   </url>
   
