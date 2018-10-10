@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
+    
+    <lastmod>2018-10-10T13:01:59.502Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
     
     <lastmod>2018-10-10T02:23:16.013Z</lastmod>
@@ -86,14 +93,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/links/index.html</loc>
+    <loc>http://aier02.com/repository/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/repository/index.html</loc>
+    <loc>http://aier02.com/links/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
