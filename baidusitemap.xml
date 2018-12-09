@@ -4,23 +4,21 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-12-09T06:57:25.313Z</lastmod>
+    <loc>http://aier02.com/2018/11/23/leetcode_linked_list/</loc>
+    <lastmod>2018-12-09T07:05:10.410Z</lastmod>
     <data>
         <display>
-        <title>Linear classification</title>
-        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
+        <title>leetcode-linked-list</title>
+        <pubTime>2018-11-23T02:00:17.093Z</pubTime>
         
-        <tag>notebook</tag>
+        <tag>linked list</tag>
          
-        <tag>linear classification</tag>
-         
-        <tag>SVM</tag>
+        <tag>leetcode</tag>
          
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="algorithms" url="http://aier02.com/categories/algorithms/"/>
           
         </display>
     </data>
@@ -29,10 +27,10 @@
     
   <url>
     <loc>http://aier02.com/2018/11/23/leetcode_hash_table/</loc>
-    <lastmod>2018-12-09T06:57:21.212Z</lastmod>
+    <lastmod>2018-12-09T07:04:00.228Z</lastmod>
     <data>
         <display>
-        <title>leetcode 1-50</title>
+        <title>leetcode_hash_table</title>
         <pubTime>2018-11-23T01:36:36.136Z</pubTime>
         
         <tag>leetcode</tag>
@@ -50,21 +48,23 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/11/23/leetcode_linked_list/</loc>
-    <lastmod>2018-12-09T06:57:08.457Z</lastmod>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    <lastmod>2018-12-09T06:57:25.313Z</lastmod>
     <data>
         <display>
-        <title>leetcode_linked_list</title>
-        <pubTime>2018-11-23T02:00:17.093Z</pubTime>
+        <title>Linear classification</title>
+        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
         
-        <tag>linked list</tag>
+        <tag>notebook</tag>
          
-        <tag>leetcode</tag>
+        <tag>linear classification</tag>
+         
+        <tag>SVM</tag>
          
          
            
              
-              <breadCrumb title="algorithms" url="http://aier02.com/categories/algorithms/"/>
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
@@ -137,28 +137,6 @@
            
              
               <breadCrumb title="paper" url="http://aier02.com/categories/paper/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/11/19/%E7%BC%BA%E5%A4%B1%E5%80%BC%E5%A4%84%E7%90%86%E5%92%8C%E7%A6%BB%E7%BE%A4%E5%80%BC%E6%A3%80%E6%B5%8B/</loc>
-    <lastmod>2018-11-19T01:49:03.386Z</lastmod>
-    <data>
-        <display>
-        <title>缺失值处理和离群值检测</title>
-        <pubTime>2018-11-19T01:49:03.386Z</pubTime>
-        
-        <tag>ml</tag>
-         
-        <tag>cookdata</tag>
-         
-         
-           
-             
-              <breadCrumb title="data preprocess" url="http://aier02.com/categories/data-preprocess/"/>
           
         </display>
     </data>
@@ -301,9 +279,9 @@
         <title>leetcode summary 20-25</title>
         <pubTime>2018-10-24T01:07:58.319Z</pubTime>
         
-        <tag>linked list</tag>
-         
         <tag>backtracking</tag>
+         
+        <tag>linked list</tag>
          
         <tag>string</tag>
          
