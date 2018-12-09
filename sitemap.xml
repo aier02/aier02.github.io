@@ -2,9 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    
+    <lastmod>2018-12-09T06:57:25.313Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/11/23/leetcode_hash_table/</loc>
+    
+    <lastmod>2018-12-09T06:57:21.212Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/11/23/leetcode_linked_list/</loc>
+    
+    <lastmod>2018-12-09T06:57:08.457Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/29/backpropagation/</loc>
+    
+    <lastmod>2018-11-21T08:28:53.411Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    
+    <lastmod>2018-11-20T02:30:44.452Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/11/12/VGG/</loc>
+    
+    <lastmod>2018-11-19T11:38:09.607Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/11/19/%E7%BC%BA%E5%A4%B1%E5%80%BC%E5%A4%84%E7%90%86%E5%92%8C%E7%A6%BB%E7%BE%A4%E5%80%BC%E6%A3%80%E6%B5%8B/</loc>
+    
+    <lastmod>2018-11-19T01:49:03.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
+    
+    <lastmod>2018-11-07T07:21:58.471Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/10/30/AlexNet/</loc>
     
-    <lastmod>2018-11-02T08:26:45.501Z</lastmod>
+    <lastmod>2018-11-03T09:23:15.726Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
+    
+    <lastmod>2018-11-02T09:33:11.448Z</lastmod>
     
   </url>
   
@@ -30,13 +93,6 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/2018/10/29/backpropagation/</loc>
-    
-    <lastmod>2018-10-29T08:04:42.275Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://aier02.com/2018/10/24/leetcode_summary_20-25/</loc>
     
     <lastmod>2018-10-29T08:04:24.604Z</lastmod>
@@ -44,37 +100,9 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    
-    <lastmod>2018-10-13T02:28:08.716Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
-    
-    <lastmod>2018-10-13T01:48:59.835Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
-    
-    <lastmod>2018-10-05T15:50:37.362Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://aier02.com/2018/10/05/optimization/</loc>
     
     <lastmod>2018-10-05T15:46:13.106Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    
-    <lastmod>2018-10-04T14:10:53.908Z</lastmod>
     
   </url>
   
@@ -128,14 +156,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/repository/index.html</loc>
+    <loc>http://aier02.com/tags/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
+    <loc>http://aier02.com/repository/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
