@@ -4,8 +4,248 @@
 
     
   <url>
+    <loc>http://aier02.com/2018/12/16/independent_component/</loc>
+    <lastmod>2018-12-16T12:56:06.269Z</lastmod>
+    <data>
+        <display>
+        <title>independent component analysis</title>
+        <pubTime>2018-12-16T12:42:23.350Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/singular_value_decomposit/</loc>
+    <lastmod>2018-12-16T12:54:50.718Z</lastmod>
+    <data>
+        <display>
+        <title>singular value decomposition</title>
+        <pubTime>2018-12-16T12:41:34.425Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/principal_component/</loc>
+    <lastmod>2018-12-16T12:54:27.384Z</lastmod>
+    <data>
+        <display>
+        <title>principal component analysis</title>
+        <pubTime>2018-12-16T12:40:51.673Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/mixture_of_Gau/</loc>
+    <lastmod>2018-12-16T12:54:05.522Z</lastmod>
+    <data>
+        <display>
+        <title>mixture of Gaussian</title>
+        <pubTime>2018-12-16T12:39:57.674Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/exception_maximization/</loc>
+    <lastmod>2018-12-16T12:53:32.077Z</lastmod>
+    <data>
+        <display>
+        <title>exception maximization</title>
+        <pubTime>2018-12-16T12:39:07.498Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/bayesian_statist/</loc>
+    <lastmod>2018-12-16T12:53:04.634Z</lastmod>
+    <data>
+        <display>
+        <title>bayesian statistic</title>
+        <pubTime>2018-12-16T12:37:36.576Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/feature_selection/</loc>
+    <lastmod>2018-12-16T12:52:42.326Z</lastmod>
+    <data>
+        <display>
+        <title>feature selection</title>
+        <pubTime>2018-12-16T12:36:22.956Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/empirial_risk_minimize/</loc>
+    <lastmod>2018-12-16T12:52:22.387Z</lastmod>
+    <data>
+        <display>
+        <title>empirial risk minimization</title>
+        <pubTime>2018-12-16T12:35:49.024Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/kernel_method/</loc>
+    <lastmod>2018-12-16T12:51:48.482Z</lastmod>
+    <data>
+        <display>
+        <title>kernel method</title>
+        <pubTime>2018-12-16T12:34:21.064Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/Lagrange_multiplian/</loc>
+    <lastmod>2018-12-16T12:51:40.473Z</lastmod>
+    <data>
+        <display>
+        <title>Lagrange multiplian</title>
+        <pubTime>2018-12-16T12:32:02.432Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/naive_Bayse/</loc>
+    <lastmod>2018-12-16T12:49:49.483Z</lastmod>
+    <data>
+        <display>
+        <title>naive Bayes</title>
+        <pubTime>2018-12-16T12:29:24.745Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/12/16/generative_learning_algorithms/</loc>
+    <lastmod>2018-12-16T12:27:49.137Z</lastmod>
+    <data>
+        <display>
+        <title>generative learning algorithms</title>
+        <pubTime>2018-12-16T12:27:05.959Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/12/16/logistic_regression/</loc>
-    <lastmod>2018-12-16T12:10:48.988Z</lastmod>
+    <lastmod>2018-12-16T12:23:40.477Z</lastmod>
     <data>
         <display>
         <title>logistic regression</title>
@@ -299,9 +539,9 @@
         <title>leetcode summary 20-25</title>
         <pubTime>2018-10-24T01:07:58.319Z</pubTime>
         
-        <tag>linked list</tag>
-         
         <tag>backtracking</tag>
+         
+        <tag>linked list</tag>
          
         <tag>string</tag>
          

@@ -2,9 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/12/16/independent_component/</loc>
+    
+    <lastmod>2018-12-16T12:56:06.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/singular_value_decomposit/</loc>
+    
+    <lastmod>2018-12-16T12:54:50.718Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/principal_component/</loc>
+    
+    <lastmod>2018-12-16T12:54:27.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/mixture_of_Gau/</loc>
+    
+    <lastmod>2018-12-16T12:54:05.522Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/exception_maximization/</loc>
+    
+    <lastmod>2018-12-16T12:53:32.077Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/bayesian_statist/</loc>
+    
+    <lastmod>2018-12-16T12:53:04.634Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/feature_selection/</loc>
+    
+    <lastmod>2018-12-16T12:52:42.326Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/empirial_risk_minimize/</loc>
+    
+    <lastmod>2018-12-16T12:52:22.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/kernel_method/</loc>
+    
+    <lastmod>2018-12-16T12:51:48.482Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/Lagrange_multiplian/</loc>
+    
+    <lastmod>2018-12-16T12:51:40.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/naive_Bayse/</loc>
+    
+    <lastmod>2018-12-16T12:49:49.483Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2018/12/16/generative_learning_algorithms/</loc>
+    
+    <lastmod>2018-12-16T12:27:49.137Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/12/16/logistic_regression/</loc>
     
-    <lastmod>2018-12-16T12:10:48.988Z</lastmod>
+    <lastmod>2018-12-16T12:23:40.477Z</lastmod>
     
   </url>
   
@@ -156,7 +240,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
+    <loc>http://aier02.com/repository/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
@@ -170,14 +254,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/repository/index.html</loc>
+    <loc>http://aier02.com/tags/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/categories/index.html</loc>
+    <loc>http://aier02.com/about/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
@@ -191,7 +275,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/about/index.html</loc>
+    <loc>http://aier02.com/categories/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
