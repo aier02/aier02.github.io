@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://aier02.com/2018/12/16/logistic_regression/</loc>
-    <lastmod>2018-12-16T11:54:52.916Z</lastmod>
+    <lastmod>2018-12-16T12:02:21.289Z</lastmod>
     <data>
         <display>
         <title>logistic regression</title>
@@ -17,6 +17,30 @@
            
              
               <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    <lastmod>2018-12-16T12:01:20.756Z</lastmod>
+    <data>
+        <display>
+        <title>linear classification</title>
+        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+        <tag>linear classification</tag>
+         
+        <tag>SVM</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
@@ -61,30 +85,6 @@
            
              
               <breadCrumb title="algorithms" url="http://aier02.com/categories/algorithms/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
-    <lastmod>2018-12-09T06:57:25.313Z</lastmod>
-    <data>
-        <display>
-        <title>Linear classification</title>
-        <pubTime>2018-10-03T05:31:44.756Z</pubTime>
-        
-        <tag>notebook</tag>
-         
-        <tag>linear classification</tag>
-         
-        <tag>SVM</tag>
-         
-         
-           
-             
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
