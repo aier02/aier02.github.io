@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2018/12/16/logistic_regression/</loc>
+    
+    <lastmod>2018-12-16T11:54:52.916Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2018/11/23/leetcode_linked_list/</loc>
     
-    <lastmod>2018-12-09T07:05:10.410Z</lastmod>
+    <lastmod>2018-12-09T07:13:02.720Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://aier02.com/2018/11/23/leetcode_hash_table/</loc>
     
-    <lastmod>2018-12-09T07:04:00.228Z</lastmod>
+    <lastmod>2018-12-09T07:12:55.099Z</lastmod>
     
   </url>
   
@@ -149,6 +156,13 @@
   </url>
   
   <url>
+    <loc>http://aier02.com/links/index.html</loc>
+    
+    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/repository/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
@@ -163,14 +177,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/links/index.html</loc>
-    
-    <lastmod>2018-08-04T16:46:32.023Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/categories/index.html</loc>
+    <loc>http://aier02.com/books/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
@@ -184,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/books/index.html</loc>
+    <loc>http://aier02.com/categories/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
