@@ -4,6 +4,138 @@
 
     
   <url>
+    <loc>http://aier02.com/2019/01/07/pytorch_argparser/</loc>
+    <lastmod>2019-01-08T07:08:42.580Z</lastmod>
+    <data>
+        <display>
+        <title>pytorch argparser</title>
+        <pubTime>2019-01-07T07:27:16.595Z</pubTime>
+        
+        <tag>sensetime</tag>
+         
+        <tag>basic knowledge</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/07/warmup_in_sensetime/</loc>
+    <lastmod>2019-01-08T07:08:37.872Z</lastmod>
+    <data>
+        <display>
+        <title>warmup in sensetime</title>
+        <pubTime>2019-01-07T13:22:24.239Z</pubTime>
+        
+        <tag>sensetime</tag>
+         
+         
+           
+             
+              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/07/label-smoothing/</loc>
+    <lastmod>2019-01-07T03:44:48.760Z</lastmod>
+    <data>
+        <display>
+        <title>label smoothing</title>
+        <pubTime>2019-01-07T03:44:48.760Z</pubTime>
+        
+        <tag>sensetime</tag>
+         
+        <tag>regularization</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
+    <lastmod>2019-01-07T03:44:15.658Z</lastmod>
+    <data>
+        <display>
+        <title>Introduction to statistical learning method U1</title>
+        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
+        
+        <tag>basic knowledge</tag>
+         
+        <tag>introduction</tag>
+         
+         
+           
+             
+              <breadCrumb title="statistical learning method" url="http://aier02.com/categories/statistical-learning-method/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
+    <lastmod>2018-12-17T02:48:08.053Z</lastmod>
+    <data>
+        <display>
+        <title>CS231n-2017-Summary</title>
+        <pubTime>2018-10-08T14:46:19.006Z</pubTime>
+        
+        <tag>notebook</tag>
+         
+         
+           
+             
+              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    <lastmod>2018-12-17T01:59:12.360Z</lastmod>
+    <data>
+        <display>
+        <title>first time in Kaggle-summary</title>
+        <pubTime>2018-10-01T16:08:39.573Z</pubTime>
+        
+        <tag>segmentation</tag>
+         
+        <tag>keras</tag>
+         
+        <tag>ResNet</tag>
+         
+        <tag>jikecloud</tag>
+         
+         
+           
+             
+              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2018/12/16/naive_Bayse/</loc>
     <lastmod>2018-12-16T15:06:47.058Z</lastmod>
     <data>
@@ -356,32 +488,6 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
-    <lastmod>2018-11-20T02:30:44.452Z</lastmod>
-    <data>
-        <display>
-        <title>first time in Kaggle-summary</title>
-        <pubTime>2018-10-01T16:08:39.573Z</pubTime>
-        
-        <tag>segmentation</tag>
-         
-        <tag>keras</tag>
-         
-        <tag>ResNet</tag>
-         
-        <tag>jikecloud</tag>
-         
-         
-           
-             
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://aier02.com/2018/11/12/VGG/</loc>
     <lastmod>2018-11-19T11:38:09.607Z</lastmod>
     <data>
@@ -441,26 +547,6 @@
            
              
               <breadCrumb title="paper" url="http://aier02.com/categories/paper/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
-    <lastmod>2018-11-02T09:33:11.448Z</lastmod>
-    <data>
-        <display>
-        <title>CS231n-2017-Summary</title>
-        <pubTime>2018-10-08T14:46:19.006Z</pubTime>
-        
-        <tag>notebook</tag>
-         
-         
-           
-             
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
           
         </display>
     </data>
@@ -573,28 +659,6 @@
            
              
               <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
-    <lastmod>2018-10-03T08:31:04.196Z</lastmod>
-    <data>
-        <display>
-        <title>Introduction to statistical learning method U1</title>
-        <pubTime>2018-08-27T16:58:59.803Z</pubTime>
-        
-        <tag>basic knowledge</tag>
-         
-        <tag>introduction</tag>
-         
-         
-           
-             
-              <breadCrumb title="statistical learning method" url="http://aier02.com/categories/statistical-learning-method/"/>
           
         </display>
     </data>
