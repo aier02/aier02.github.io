@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://aier02.com/2019/01/07/warmup_in_sensetime/</loc>
-    
-    <lastmod>2019-01-08T07:15:55.085Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://aier02.com/2019/01/07/pytorch_argparser/</loc>
     
     <lastmod>2019-01-08T07:08:42.580Z</lastmod>
@@ -261,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/links/index.html</loc>
+    <loc>http://aier02.com/tags/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
@@ -275,14 +268,14 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
+    <loc>http://aier02.com/links/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aier02.com/about/index.html</loc>
+    <loc>http://aier02.com/categories/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
@@ -296,7 +289,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/categories/index.html</loc>
+    <loc>http://aier02.com/about/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
