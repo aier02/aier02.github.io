@@ -4,8 +4,108 @@
 
     
   <url>
+    <loc>http://aier02.com/2019/01/15/inception/</loc>
+    <lastmod>2019-01-15T09:03:57.369Z</lastmod>
+    <data>
+        <display>
+        <title>inception</title>
+        <pubTime>2019-01-15T08:23:32.427Z</pubTime>
+        
+        <tag>blog</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/12/BoW_in_cv/</loc>
+    <lastmod>2019-01-12T02:59:23.356Z</lastmod>
+    <data>
+        <display>
+        <title>BoW in cv</title>
+        <pubTime>2019-01-12T02:59:03.404Z</pubTime>
+        
+        <tag>blog</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/11/LSTMs/</loc>
+    <lastmod>2019-01-11T08:59:06.676Z</lastmod>
+    <data>
+        <display>
+        <title>LSTMs</title>
+        <pubTime>2019-01-11T07:33:13.044Z</pubTime>
+        
+        <tag>blog</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/11/gradient-vanishing-&-exploding-problem/</loc>
+    <lastmod>2019-01-11T07:33:27.121Z</lastmod>
+    <data>
+        <display>
+        <title>gradient vanishing & exploding problem</title>
+        <pubTime>2019-01-11T07:33:27.121Z</pubTime>
+        
+        <tag>gradient</tag>
+         
+         
+           
+             
+              <breadCrumb title="dl" url="http://aier02.com/categories/dl/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://aier02.com/2019/01/10/epoch%20&%20iteration/</loc>
+    <lastmod>2019-01-11T05:16:34.023Z</lastmod>
+    <data>
+        <display>
+        <title>epoch & iteration</title>
+        <pubTime>2019-01-10T11:15:52.935Z</pubTime>
+        
+        <tag>pytorch</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2019/01/07/pytorch_argparser/</loc>
-    <lastmod>2019-01-08T07:08:42.580Z</lastmod>
+    <lastmod>2019-01-10T11:12:26.691Z</lastmod>
     <data>
         <display>
         <title>pytorch argparser</title>
@@ -26,6 +126,26 @@
 
     
   <url>
+    <loc>http://aier02.com/2019/01/09/BN/</loc>
+    <lastmod>2019-01-09T11:45:41.115Z</lastmod>
+    <data>
+        <display>
+        <title>BN</title>
+        <pubTime>2019-01-09T11:45:40.264Z</pubTime>
+        
+        <tag>regularization</tag>
+         
+         
+           
+             
+              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://aier02.com/2019/01/07/label-smoothing/</loc>
     <lastmod>2019-01-07T03:44:48.760Z</lastmod>
     <data>
@@ -33,9 +153,9 @@
         <title>label smoothing</title>
         <pubTime>2019-01-07T03:44:48.760Z</pubTime>
         
-        <tag>sensetime</tag>
-         
         <tag>regularization</tag>
+         
+        <tag>sensetime</tag>
          
          
            

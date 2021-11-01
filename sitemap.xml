@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aier02.com/2019/01/15/inception/</loc>
+    
+    <lastmod>2019-01-15T09:03:57.369Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2019/01/12/BoW_in_cv/</loc>
+    
+    <lastmod>2019-01-12T02:59:23.356Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2019/01/11/LSTMs/</loc>
+    
+    <lastmod>2019-01-11T08:59:06.676Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2019/01/11/gradient-vanishing-&-exploding-problem/</loc>
+    
+    <lastmod>2019-01-11T07:33:27.121Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2019/01/10/epoch%20&%20iteration/</loc>
+    
+    <lastmod>2019-01-11T05:16:34.023Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aier02.com/2019/01/07/pytorch_argparser/</loc>
     
-    <lastmod>2019-01-08T07:08:42.580Z</lastmod>
+    <lastmod>2019-01-10T11:12:26.691Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/2019/01/09/BN/</loc>
+    
+    <lastmod>2019-01-09T11:45:41.115Z</lastmod>
     
   </url>
   
@@ -254,7 +296,7 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/tags/index.html</loc>
+    <loc>http://aier02.com/links/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
     
@@ -268,9 +310,16 @@
   </url>
   
   <url>
-    <loc>http://aier02.com/links/index.html</loc>
+    <loc>http://aier02.com/tags/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.023Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aier02.com/about/index.html</loc>
+    
+    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
   </url>
   
@@ -283,13 +332,6 @@
   
   <url>
     <loc>http://aier02.com/books/index.html</loc>
-    
-    <lastmod>2018-08-04T16:46:32.022Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aier02.com/about/index.html</loc>
     
     <lastmod>2018-08-04T16:46:32.022Z</lastmod>
     
