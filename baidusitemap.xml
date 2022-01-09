@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2022/01/09/summary_2021_1/</loc>
+    <loc>http://aier02.github.io/2022/01/09/summary_2021_1/</loc>
     <lastmod>2022-01-09T13:41:22.747Z</lastmod>
     <data>
         <display>
@@ -16,7 +16,7 @@
          
            
              
-              <breadCrumb title="personal summary" url="http://aier02.com/categories/personal-summary/"/>
+              <breadCrumb title="personal summary" url="http://aier02.github.io/categories/personal-summary/"/>
           
         </display>
     </data>
@@ -24,7 +24,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/15/inception/</loc>
+    <loc>http://aier02.github.io/2019/01/15/inception/</loc>
     <lastmod>2019-01-15T09:03:57.369Z</lastmod>
     <data>
         <display>
@@ -36,7 +36,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -44,7 +44,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/12/BoW_in_cv/</loc>
+    <loc>http://aier02.github.io/2019/01/12/BoW_in_cv/</loc>
     <lastmod>2019-01-12T02:59:23.356Z</lastmod>
     <data>
         <display>
@@ -56,7 +56,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -64,7 +64,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/11/LSTMs/</loc>
+    <loc>http://aier02.github.io/2019/01/11/LSTMs/</loc>
     <lastmod>2019-01-11T08:59:06.676Z</lastmod>
     <data>
         <display>
@@ -76,7 +76,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -84,7 +84,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/11/gradient-vanishing-&-exploding-problem/</loc>
+    <loc>http://aier02.github.io/2019/01/11/gradient-vanishing-&-exploding-problem/</loc>
     <lastmod>2019-01-11T07:33:27.121Z</lastmod>
     <data>
         <display>
@@ -96,7 +96,7 @@
          
            
              
-              <breadCrumb title="dl" url="http://aier02.com/categories/dl/"/>
+              <breadCrumb title="dl" url="http://aier02.github.io/categories/dl/"/>
           
         </display>
     </data>
@@ -104,7 +104,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/10/epoch%20&%20iteration/</loc>
+    <loc>http://aier02.github.io/2019/01/10/epoch%20&%20iteration/</loc>
     <lastmod>2019-01-11T05:16:34.023Z</lastmod>
     <data>
         <display>
@@ -116,7 +116,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -124,7 +124,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/07/pytorch_argparser/</loc>
+    <loc>http://aier02.github.io/2019/01/07/pytorch_argparser/</loc>
     <lastmod>2019-01-10T11:12:26.691Z</lastmod>
     <data>
         <display>
@@ -138,7 +138,7 @@
          
            
              
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+              <breadCrumb title="pytorch" url="http://aier02.github.io/categories/pytorch/"/>
           
         </display>
     </data>
@@ -146,7 +146,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/09/BN/</loc>
+    <loc>http://aier02.github.io/2019/01/09/BN/</loc>
     <lastmod>2019-01-09T11:45:41.115Z</lastmod>
     <data>
         <display>
@@ -158,7 +158,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -166,7 +166,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2019/01/07/label-smoothing/</loc>
+    <loc>http://aier02.github.io/2019/01/07/label-smoothing/</loc>
     <lastmod>2019-01-07T03:44:48.760Z</lastmod>
     <data>
         <display>
@@ -180,7 +180,7 @@
          
            
              
-              <breadCrumb title="cv" url="http://aier02.com/categories/cv/"/>
+              <breadCrumb title="cv" url="http://aier02.github.io/categories/cv/"/>
           
         </display>
     </data>
@@ -188,7 +188,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/08/28/statistic_1/</loc>
+    <loc>http://aier02.github.io/2018/08/28/statistic_1/</loc>
     <lastmod>2019-01-07T03:44:15.658Z</lastmod>
     <data>
         <display>
@@ -202,7 +202,7 @@
          
            
              
-              <breadCrumb title="statistical learning method" url="http://aier02.com/categories/statistical-learning-method/"/>
+              <breadCrumb title="statistical learning method" url="http://aier02.github.io/categories/statistical-learning-method/"/>
           
         </display>
     </data>
@@ -210,7 +210,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/08/CS231n_2017_Summary/</loc>
+    <loc>http://aier02.github.io/2018/10/08/CS231n_2017_Summary/</loc>
     <lastmod>2018-12-17T02:48:08.053Z</lastmod>
     <data>
         <display>
@@ -222,7 +222,7 @@
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="cs231n" url="http://aier02.github.io/categories/cs231n/"/>
           
         </display>
     </data>
@@ -230,7 +230,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/02/rsna_summary/</loc>
+    <loc>http://aier02.github.io/2018/10/02/rsna_summary/</loc>
     <lastmod>2018-12-17T01:59:12.360Z</lastmod>
     <data>
         <display>
@@ -248,7 +248,7 @@
          
            
              
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+              <breadCrumb title="Kaggle" url="http://aier02.github.io/categories/Kaggle/"/>
           
         </display>
     </data>
@@ -256,7 +256,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/naive_Bayse/</loc>
+    <loc>http://aier02.github.io/2018/12/16/naive_Bayse/</loc>
     <lastmod>2018-12-16T15:06:47.058Z</lastmod>
     <data>
         <display>
@@ -268,7 +268,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -276,7 +276,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/Lagrange_multiplian/</loc>
+    <loc>http://aier02.github.io/2018/12/16/Lagrange_multiplian/</loc>
     <lastmod>2018-12-16T15:05:31.241Z</lastmod>
     <data>
         <display>
@@ -288,7 +288,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -296,7 +296,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/kernel_method/</loc>
+    <loc>http://aier02.github.io/2018/12/16/kernel_method/</loc>
     <lastmod>2018-12-16T15:05:13.356Z</lastmod>
     <data>
         <display>
@@ -308,7 +308,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -316,7 +316,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/exception_maximization/</loc>
+    <loc>http://aier02.github.io/2018/12/16/exception_maximization/</loc>
     <lastmod>2018-12-16T15:03:43.711Z</lastmod>
     <data>
         <display>
@@ -328,7 +328,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -336,7 +336,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/empirial_risk_minimize/</loc>
+    <loc>http://aier02.github.io/2018/12/16/empirial_risk_minimize/</loc>
     <lastmod>2018-12-16T15:02:02.606Z</lastmod>
     <data>
         <display>
@@ -348,7 +348,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -356,7 +356,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/feature_selection/</loc>
+    <loc>http://aier02.github.io/2018/12/16/feature_selection/</loc>
     <lastmod>2018-12-16T15:01:29.782Z</lastmod>
     <data>
         <display>
@@ -368,7 +368,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -376,7 +376,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/bayesian_statist/</loc>
+    <loc>http://aier02.github.io/2018/12/16/bayesian_statist/</loc>
     <lastmod>2018-12-16T15:00:54.868Z</lastmod>
     <data>
         <display>
@@ -388,7 +388,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -396,7 +396,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/mixture_of_Gau/</loc>
+    <loc>http://aier02.github.io/2018/12/16/mixture_of_Gau/</loc>
     <lastmod>2018-12-16T15:00:20.365Z</lastmod>
     <data>
         <display>
@@ -408,7 +408,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -416,7 +416,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/principal_component/</loc>
+    <loc>http://aier02.github.io/2018/12/16/principal_component/</loc>
     <lastmod>2018-12-16T15:00:11.897Z</lastmod>
     <data>
         <display>
@@ -428,7 +428,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -436,7 +436,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/singular_value_decomposit/</loc>
+    <loc>http://aier02.github.io/2018/12/16/singular_value_decomposit/</loc>
     <lastmod>2018-12-16T15:00:01.717Z</lastmod>
     <data>
         <display>
@@ -448,7 +448,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -456,7 +456,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/independent_component/</loc>
+    <loc>http://aier02.github.io/2018/12/16/independent_component/</loc>
     <lastmod>2018-12-16T14:59:53.745Z</lastmod>
     <data>
         <display>
@@ -468,7 +468,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -476,7 +476,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/generative_learning_algorithms/</loc>
+    <loc>http://aier02.github.io/2018/12/16/generative_learning_algorithms/</loc>
     <lastmod>2018-12-16T12:27:49.137Z</lastmod>
     <data>
         <display>
@@ -488,7 +488,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -496,7 +496,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/12/16/logistic_regression/</loc>
+    <loc>http://aier02.github.io/2018/12/16/logistic_regression/</loc>
     <lastmod>2018-12-16T12:23:40.477Z</lastmod>
     <data>
         <display>
@@ -508,7 +508,7 @@
          
            
              
-              <breadCrumb title="cs229n" url="http://aier02.com/categories/cs229n/"/>
+              <breadCrumb title="cs229n" url="http://aier02.github.io/categories/cs229n/"/>
           
         </display>
     </data>
@@ -516,7 +516,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/03/linear_classification/</loc>
+    <loc>http://aier02.github.io/2018/10/03/linear_classification/</loc>
     <lastmod>2018-12-16T12:01:20.756Z</lastmod>
     <data>
         <display>
@@ -532,7 +532,7 @@
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="cs231n" url="http://aier02.github.io/categories/cs231n/"/>
           
         </display>
     </data>
@@ -540,7 +540,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/11/23/leetcode_linked_list/</loc>
+    <loc>http://aier02.github.io/2018/11/23/leetcode_linked_list/</loc>
     <lastmod>2018-12-09T07:13:02.720Z</lastmod>
     <data>
         <display>
@@ -554,7 +554,7 @@
          
            
              
-              <breadCrumb title="algorithms" url="http://aier02.com/categories/algorithms/"/>
+              <breadCrumb title="algorithms" url="http://aier02.github.io/categories/algorithms/"/>
           
         </display>
     </data>
@@ -562,7 +562,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/11/23/leetcode_hash_table/</loc>
+    <loc>http://aier02.github.io/2018/11/23/leetcode_hash_table/</loc>
     <lastmod>2018-12-09T07:12:55.099Z</lastmod>
     <data>
         <display>
@@ -576,7 +576,7 @@
          
            
              
-              <breadCrumb title="algorithms" url="http://aier02.com/categories/algorithms/"/>
+              <breadCrumb title="algorithms" url="http://aier02.github.io/categories/algorithms/"/>
           
         </display>
     </data>
@@ -584,7 +584,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/29/backpropagation/</loc>
+    <loc>http://aier02.github.io/2018/10/29/backpropagation/</loc>
     <lastmod>2018-11-21T08:28:53.411Z</lastmod>
     <data>
         <display>
@@ -600,7 +600,7 @@
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="cs231n" url="http://aier02.github.io/categories/cs231n/"/>
           
         </display>
     </data>
@@ -608,7 +608,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/11/12/VGG/</loc>
+    <loc>http://aier02.github.io/2018/11/12/VGG/</loc>
     <lastmod>2018-11-19T11:38:09.607Z</lastmod>
     <data>
         <display>
@@ -622,7 +622,7 @@
          
            
              
-              <breadCrumb title="paper" url="http://aier02.com/categories/paper/"/>
+              <breadCrumb title="paper" url="http://aier02.github.io/categories/paper/"/>
           
         </display>
     </data>
@@ -630,7 +630,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/02/pytorch_cookbook-U2&U3/</loc>
+    <loc>http://aier02.github.io/2018/10/02/pytorch_cookbook-U2&U3/</loc>
     <lastmod>2018-11-07T07:21:58.471Z</lastmod>
     <data>
         <display>
@@ -644,7 +644,7 @@
          
            
              
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+              <breadCrumb title="pytorch" url="http://aier02.github.io/categories/pytorch/"/>
           
         </display>
     </data>
@@ -652,7 +652,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/30/AlexNet/</loc>
+    <loc>http://aier02.github.io/2018/10/30/AlexNet/</loc>
     <lastmod>2018-11-03T09:23:15.726Z</lastmod>
     <data>
         <display>
@@ -666,7 +666,7 @@
          
            
              
-              <breadCrumb title="paper" url="http://aier02.com/categories/paper/"/>
+              <breadCrumb title="paper" url="http://aier02.github.io/categories/paper/"/>
           
         </display>
     </data>
@@ -674,7 +674,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/18/analysis_kernel_demo/</loc>
+    <loc>http://aier02.github.io/2018/09/18/analysis_kernel_demo/</loc>
     <lastmod>2018-10-30T02:57:12.890Z</lastmod>
     <data>
         <display>
@@ -686,7 +686,7 @@
          
            
              
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+              <breadCrumb title="pytorch" url="http://aier02.github.io/categories/pytorch/"/>
           
         </display>
     </data>
@@ -694,7 +694,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/13/common_knowledge/</loc>
+    <loc>http://aier02.github.io/2018/10/13/common_knowledge/</loc>
     <lastmod>2018-10-30T02:57:03.946Z</lastmod>
     <data>
         <display>
@@ -706,7 +706,7 @@
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="cs231n" url="http://aier02.github.io/categories/cs231n/"/>
           
         </display>
     </data>
@@ -714,7 +714,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/24/leetcode-summary-26-30/</loc>
+    <loc>http://aier02.github.io/2018/10/24/leetcode-summary-26-30/</loc>
     <lastmod>2018-10-30T02:56:49.273Z</lastmod>
     <data>
         <display>
@@ -730,7 +730,7 @@
          
            
              
-              <breadCrumb title="leetcode" url="http://aier02.com/categories/leetcode/"/>
+              <breadCrumb title="leetcode" url="http://aier02.github.io/categories/leetcode/"/>
           
         </display>
     </data>
@@ -738,7 +738,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/24/leetcode_summary_20-25/</loc>
+    <loc>http://aier02.github.io/2018/10/24/leetcode_summary_20-25/</loc>
     <lastmod>2018-10-29T08:04:24.604Z</lastmod>
     <data>
         <display>
@@ -756,7 +756,7 @@
          
            
              
-              <breadCrumb title="leetcode" url="http://aier02.com/categories/leetcode/"/>
+              <breadCrumb title="leetcode" url="http://aier02.github.io/categories/leetcode/"/>
           
         </display>
     </data>
@@ -764,7 +764,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/10/05/optimization/</loc>
+    <loc>http://aier02.github.io/2018/10/05/optimization/</loc>
     <lastmod>2018-10-05T15:46:13.106Z</lastmod>
     <data>
         <display>
@@ -778,7 +778,7 @@
          
            
              
-              <breadCrumb title="cs231n" url="http://aier02.com/categories/cs231n/"/>
+              <breadCrumb title="cs231n" url="http://aier02.github.io/categories/cs231n/"/>
           
         </display>
     </data>
@@ -786,7 +786,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/08/07/blog_tutorial/</loc>
+    <loc>http://aier02.github.io/2018/08/07/blog_tutorial/</loc>
     <lastmod>2018-10-03T08:30:19.069Z</lastmod>
     <data>
         <display>
@@ -802,7 +802,7 @@
          
            
              
-              <breadCrumb title="blog" url="http://aier02.com/categories/blog/"/>
+              <breadCrumb title="blog" url="http://aier02.github.io/categories/blog/"/>
           
         </display>
     </data>
@@ -810,7 +810,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/06/rsna_pneumonia_detection/</loc>
+    <loc>http://aier02.github.io/2018/09/06/rsna_pneumonia_detection/</loc>
     <lastmod>2018-10-03T08:15:40.619Z</lastmod>
     <data>
         <display>
@@ -828,7 +828,7 @@
          
            
              
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+              <breadCrumb title="Kaggle" url="http://aier02.github.io/categories/Kaggle/"/>
           
         </display>
     </data>
@@ -836,7 +836,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/05/kaggle_expericence/</loc>
+    <loc>http://aier02.github.io/2018/09/05/kaggle_expericence/</loc>
     <lastmod>2018-10-03T08:08:35.464Z</lastmod>
     <data>
         <display>
@@ -848,7 +848,7 @@
          
            
              
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+              <breadCrumb title="Kaggle" url="http://aier02.github.io/categories/Kaggle/"/>
           
         </display>
     </data>
@@ -856,7 +856,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/28/python_rubbish_collection/</loc>
+    <loc>http://aier02.github.io/2018/09/28/python_rubbish_collection/</loc>
     <lastmod>2018-10-03T08:08:16.164Z</lastmod>
     <data>
         <display>
@@ -868,7 +868,7 @@
          
            
              
-              <breadCrumb title="python" url="http://aier02.com/categories/python/"/>
+              <breadCrumb title="python" url="http://aier02.github.io/categories/python/"/>
           
         </display>
     </data>
@@ -876,7 +876,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/18/faster_RCNN/</loc>
+    <loc>http://aier02.github.io/2018/09/18/faster_RCNN/</loc>
     <lastmod>2018-10-03T08:08:10.513Z</lastmod>
     <data>
         <display>
@@ -888,7 +888,7 @@
          
            
              
-              <breadCrumb title="pytorch" url="http://aier02.com/categories/pytorch/"/>
+              <breadCrumb title="pytorch" url="http://aier02.github.io/categories/pytorch/"/>
           
         </display>
     </data>
@@ -896,7 +896,7 @@
 
     
   <url>
-    <loc>http://aier02.com/2018/09/05/airbus_ship_detection/</loc>
+    <loc>http://aier02.github.io/2018/09/05/airbus_ship_detection/</loc>
     <lastmod>2018-10-03T08:08:00.121Z</lastmod>
     <data>
         <display>
@@ -908,7 +908,7 @@
          
            
              
-              <breadCrumb title="Kaggle" url="http://aier02.com/categories/Kaggle/"/>
+              <breadCrumb title="Kaggle" url="http://aier02.github.io/categories/Kaggle/"/>
           
         </display>
     </data>
